@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Estructura de Datos\CapitalRecursivo\CapitalRecursivo\bin\Debug\net8.0\CapitalRecursivo.exe
+C:\Users\User\Documents\Estructura de Datos\CapitalRecursivo\CapitalRecursivo\bin\Debug\net8.0\CapitalRecursivo.deps.json
+C:\Users\User\Documents\Estructura de Datos\CapitalRecursivo\CapitalRecursivo\bin\Debug\net8.0\CapitalRecursivo.runtimeconfig.json
+C:\Users\User\Documents\Estructura de Datos\CapitalRecursivo\CapitalRecursivo\bin\Debug\net8.0\CapitalRecursivo.dll
+C:\Users\User\Documents\Estructura de Datos\CapitalRecursivo\CapitalRecursivo\bin\Debug\net8.0\CapitalRecursivo.pdb
+C:\Users\User\Documents\Estructura de Datos\CapitalRecursivo\CapitalRecursivo\obj\Debug\net8.0\CapitalRecursivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Estructura de Datos\CapitalRecursivo\CapitalRecursivo\obj\Debug\net8.0\CapitalRecursivo.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Estructura de Datos\CapitalRecursivo\CapitalRecursivo\obj\Debug\net8.0\CapitalRecursivo.AssemblyInfo.cs
+C:\Users\User\Documents\Estructura de Datos\CapitalRecursivo\CapitalRecursivo\obj\Debug\net8.0\CapitalRecursivo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Estructura de Datos\CapitalRecursivo\CapitalRecursivo\obj\Debug\net8.0\CapitalRecursivo.dll
+C:\Users\User\Documents\Estructura de Datos\CapitalRecursivo\CapitalRecursivo\obj\Debug\net8.0\refint\CapitalRecursivo.dll
+C:\Users\User\Documents\Estructura de Datos\CapitalRecursivo\CapitalRecursivo\obj\Debug\net8.0\CapitalRecursivo.pdb
+C:\Users\User\Documents\Estructura de Datos\CapitalRecursivo\CapitalRecursivo\obj\Debug\net8.0\CapitalRecursivo.genruntimeconfig.cache
+C:\Users\User\Documents\Estructura de Datos\CapitalRecursivo\CapitalRecursivo\obj\Debug\net8.0\ref\CapitalRecursivo.dll
